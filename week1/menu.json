@@ -1,0 +1,69 @@
+{
+
+	"appetizers": [{
+			"name": " mozzarella sticks",
+			"description": "fried mozzarella sticks ",
+			"ingredients": ["cheese", "salt", "flour", "milk"]
+		},
+
+
+		{
+			"name": "chips and salsa",
+			"description": "spicy salsa and fired chips",
+			"ingredients": ["salt", "chips", "lemon"]
+		}
+	],
+
+	"drinks": [{
+			"name": "coke",
+			"description": "carbonated coke with little mouthfeel or aftertaste",
+			"ingredients": ["Sugar", "Carbonated water", "caffeine"]
+		},
+		{
+			"name": "sprite",
+			"description": "carbonated coke with little mouthfeel or aftertaste",
+			"ingredients": ["Sugar", "Carbonated water", "caffeine"]
+		}
+	],
+
+	"cold sandwiches": [{
+			"name": "Club Roll Ups",
+			"description": "roll ups filled with meat cheese and olives",
+			"ingredients": ["meat", "cheese", "olive"]
+		},
+		{
+			"name": "Fresh Veggie Pockets",
+			"description": "Crunchy with crisp vegetables and nutty sunflower kernels",
+			"ingredients": ["cucumber", "tomatoe", "avocado"]
+		}
+	],
+
+	"hot sandwiches": [{
+			"name": "Baked Ham Salad Sandwiches",
+			"description": " filled with baked ham",
+			"ingredients": ["cooked ham", "sweet pickles", " mayonnaise"]
+		},
+		{
+			"name": "Cuban Sandwich Burgers",
+			"description": "grilled sandwhich cuban style",
+			"ingredients": ["ground beef", "ground pork", "deli ham"]
+		}
+	],
+
+	"desserts": [{
+			"name": "fudge brownie",
+			"description": " filled with chocolate",
+			"ingredients": [" Eggs", "chocolate", "milk"]
+		},
+		{
+			"name": "icecream cake",
+			"description": "grilled sandwhich cuban style",
+			"ingredients": ["fruit", "icecream", "sugar"]
+		}
+	]
+
+
+
+
+
+}
