@@ -26,12 +26,8 @@ axios.get("http://api.bryanuniversity.edu/stephanieguzman/list").then(res=> {
         price.textContent = todo.price
         
 
-        
-      
-        
-
+  
     }
-
     })
 
     var form = document.createElement("form")
